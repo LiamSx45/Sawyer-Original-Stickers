@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4E68BBDC26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 4E68BBDB26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		4E68BBDC26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 4E68BBDB26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		4E68BBE026A5035B00B87DD3 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 4E68BBDF26A5035B00B87DD3 /* Stickers.xcstickers */; };
 		4E68BBE126A5035B00B87DD3 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 4E68BBDF26A5035B00B87DD3 /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				4E68BBDC26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension.appex in Embed App Extensions */,
+				4E68BBDC26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,8 +37,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4E68BBD726A5035B00B87DD3 /* Liam Sawyer Store Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Liam Sawyer Store Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E68BBDB26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Liam Sawyer Store Stickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E68BBD726A5035B00B87DD3 /* Sawyer Original Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sawyer Original Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E68BBDB26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Sawyer Original Stickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E68BBDF26A5035B00B87DD3 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "Liam Sawyer Store Stickers StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,8 +54,8 @@
 		4E68BBD826A5035B00B87DD3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4E68BBD726A5035B00B87DD3 /* Liam Sawyer Store Stickers.app */,
-				4E68BBDB26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension.appex */,
+				4E68BBD726A5035B00B87DD3 /* Sawyer Original Stickers.app */,
+				4E68BBDB26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4E68BBD626A5035B00B87DD3 /* Liam Sawyer Store Stickers */ = {
+		4E68BBD626A5035B00B87DD3 /* Sawyer Original Stickers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E68BBE826A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Liam Sawyer Store Stickers" */;
+			buildConfigurationList = 4E68BBE826A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Sawyer Original Stickers" */;
 			buildPhases = (
 				4E68BBD526A5035B00B87DD3 /* Resources */,
 				4E68BBE726A5035B00B87DD3 /* Embed App Extensions */,
@@ -75,14 +75,14 @@
 			dependencies = (
 				4E68BBDE26A5035B00B87DD3 /* PBXTargetDependency */,
 			);
-			name = "Liam Sawyer Store Stickers";
+			name = "Sawyer Original Stickers";
 			productName = "Liam Sawyer Store Stickers";
-			productReference = 4E68BBD726A5035B00B87DD3 /* Liam Sawyer Store Stickers.app */;
+			productReference = 4E68BBD726A5035B00B87DD3 /* Sawyer Original Stickers.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		4E68BBDA26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension */ = {
+		4E68BBDA26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E68BBE426A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Liam Sawyer Store Stickers StickerPackExtension" */;
+			buildConfigurationList = 4E68BBE426A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Sawyer Original Stickers StickerPackExtension" */;
 			buildPhases = (
 				4E68BBD926A5035B00B87DD3 /* Resources */,
 			);
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = "Liam Sawyer Store Stickers StickerPackExtension";
+			name = "Sawyer Original Stickers StickerPackExtension";
 			productName = "Liam Sawyer Store Stickers StickerPackExtension";
-			productReference = 4E68BBDB26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension.appex */;
+			productReference = 4E68BBDB26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
@@ -112,7 +112,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4E68BBD426A5035B00B87DD3 /* Build configuration list for PBXProject "Liam Sawyer Store Stickers" */;
+			buildConfigurationList = 4E68BBD426A5035B00B87DD3 /* Build configuration list for PBXProject "Sawyer Original Stickers" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -125,8 +125,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4E68BBD626A5035B00B87DD3 /* Liam Sawyer Store Stickers */,
-				4E68BBDA26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension */,
+				4E68BBD626A5035B00B87DD3 /* Sawyer Original Stickers */,
+				4E68BBDA26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -153,7 +153,7 @@
 /* Begin PBXTargetDependency section */
 		4E68BBDE26A5035B00B87DD3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4E68BBDA26A5035B00B87DD3 /* Liam Sawyer Store Stickers StickerPackExtension */;
+			target = 4E68BBDA26A5035B00B87DD3 /* Sawyer Original Stickers StickerPackExtension */;
 			targetProxy = 4E68BBDD26A5035B00B87DD3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -210,7 +210,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -263,7 +263,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -280,8 +280,12 @@
 				DEVELOPMENT_TEAM = P4EMYDJDM8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Liam Sawyer Store Stickers StickerPackExtension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Sawyer Original Stickers";
+				INFOPLIST_KEY_CFBundleExecutable = "Liam Sawyer Store Stickers StickerPackExtension";
+				INFOPLIST_KEY_CFBundleName = "Liam Sawyer Store Stickers StickerPackExtension";
+				INFOPLIST_KEY_CFBundleVersion = 2;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "Liam-Sawyer.Liam-Sawyer-Store-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -299,8 +303,12 @@
 				DEVELOPMENT_TEAM = P4EMYDJDM8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Liam Sawyer Store Stickers StickerPackExtension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Sawyer Original Stickers";
+				INFOPLIST_KEY_CFBundleExecutable = "Liam Sawyer Store Stickers StickerPackExtension";
+				INFOPLIST_KEY_CFBundleName = "Liam Sawyer Store Stickers StickerPackExtension";
+				INFOPLIST_KEY_CFBundleVersion = 2;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "Liam-Sawyer.Liam-Sawyer-Store-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -318,8 +326,16 @@
 				DEVELOPMENT_TEAM = P4EMYDJDM8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Liam Sawyer Store Stickers/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Sawyer Original Stickers";
+				INFOPLIST_KEY_CFBundleExecutable = "Liam Sawyer Store Stickers";
+				INFOPLIST_KEY_CFBundleName = "Liam Sawyer Store Stickers";
+				INFOPLIST_KEY_CFBundleVersion = 2;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "Liam-Sawyer.Liam-Sawyer-Store-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -336,8 +352,16 @@
 				DEVELOPMENT_TEAM = P4EMYDJDM8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Liam Sawyer Store Stickers/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Sawyer Original Stickers";
+				INFOPLIST_KEY_CFBundleExecutable = "Liam Sawyer Store Stickers";
+				INFOPLIST_KEY_CFBundleName = "Liam Sawyer Store Stickers";
+				INFOPLIST_KEY_CFBundleVersion = 2;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "Liam-Sawyer.Liam-Sawyer-Store-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -348,7 +372,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4E68BBD426A5035B00B87DD3 /* Build configuration list for PBXProject "Liam Sawyer Store Stickers" */ = {
+		4E68BBD426A5035B00B87DD3 /* Build configuration list for PBXProject "Sawyer Original Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E68BBE226A5035B00B87DD3 /* Debug */,
@@ -357,7 +381,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E68BBE426A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Liam Sawyer Store Stickers StickerPackExtension" */ = {
+		4E68BBE426A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Sawyer Original Stickers StickerPackExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E68BBE526A5035B00B87DD3 /* Debug */,
@@ -366,7 +390,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E68BBE826A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Liam Sawyer Store Stickers" */ = {
+		4E68BBE826A5035B00B87DD3 /* Build configuration list for PBXNativeTarget "Sawyer Original Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E68BBE926A5035B00B87DD3 /* Debug */,

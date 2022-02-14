@@ -1,9 +1,65 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
-    "grid-size" : "regular"
-  }
+    "grid-size" : "small"
+  },
+  "stickers" : [
+    {
+      "filename" : "2.sticker"
+    },
+    {
+      "filename" : "3.sticker"
+    },
+    {
+      "filename" : "1.sticker"
+    },
+    {
+      "filename" : "4.sticker"
+    },
+    {
+      "filename" : "8.sticker"
+    },
+    {
+      "filename" : "6.sticker"
+    },
+    {
+      "filename" : "7.sticker"
+    },
+    {
+      "filename" : "5.sticker"
+    },
+    {
+      "filename" : "Be kind to love.sticker"
+    },
+    {
+      "filename" : "Monstera Plant.sticker"
+    },
+    {
+      "filename" : "Anthurium Red Plant.sticker"
+    },
+    {
+      "filename" : "plant 03.sticker"
+    },
+    {
+      "filename" : "Ficus Audrey Plant.sticker"
+    },
+    {
+      "filename" : "Snake Plant.sticker"
+    },
+    {
+      "filename" : "plant 6.sticker"
+    },
+    {
+      "filename" : "nyc 01.sticker"
+    },
+    {
+      "filename" : "nyc 02.sticker"
+    },
+    {
+      "filename" : "Untitled_Artwork 8.sticker"
+    }
+  ]
 }
